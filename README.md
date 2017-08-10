@@ -1,4 +1,9 @@
 # FE_demos
-1. canvas-clock
-1. nodejs
-1. promise
+1. AJAX_demo
+2. AMD_CMD
+3. canvas-clock
+4. mocha.js_demo
+5. nodejs_crawler
+6. promise_demo
+7. requireJS_demo
+8. webpack_demo
